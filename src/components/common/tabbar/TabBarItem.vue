@@ -35,7 +35,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .tab-bar-item{
     flex-grow: 1;
     text-align: center;

@@ -25,7 +25,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .goods-list {
     display: flex;
     flex-wrap: wrap;
