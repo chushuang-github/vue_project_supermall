@@ -15,7 +15,7 @@
       goods: {
         type: Array,
         default(){
-          return []
+          return [] 
         }
       }
     },

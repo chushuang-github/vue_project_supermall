@@ -20,11 +20,6 @@
     line-height: 44px;
     text-align: center;
     box-shadow: 0 1px 1px rgba(100,100,100,0.1);
-    position: fixed;
-    left: 0px;
-    top: 0px;
-    right: 0px;
-    z-index: 9;
   }
   .left, .right{
     width: 60px;
